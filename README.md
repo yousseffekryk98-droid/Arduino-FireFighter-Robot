@@ -72,6 +72,7 @@ Once the fire is centered and within range, the motors stop, and the water pump 
 - Use separate power supplies for the Arduino and motors if possible
 - Install a capacitor (100µF) across the motor driver power pins to reduce noise
 - Ensure good battery connections with appropriate gauge wiring
+<img width="1599" height="1186" alt="image" src="https://github.com/user-attachments/assets/5450b56a-1356-4c5d-aa1e-032799831f30" />
 
 ---
 
